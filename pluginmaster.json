@@ -1,0 +1,27 @@
+{
+        "Author": "SHOEGAZEssb, xvxsamuel",
+        "Name": "DagobertAuto",
+        "Punchline": "Penny pinching to the max",
+        "Description": "Automates market board penny pinching with auto features",
+        "Changelog": "",
+        "InternalName": "Dagobert",
+        "AssemblyVersion": "1.6.0.0.1",
+        "RepoUrl": "https://github.com/xvxsamuel/DagobertAuto",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Utility"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/xvxsamuel/DagobertAuto/releases/download/v1.6.0.0.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/xvxsamuel/DagobertAuto/releases/download/v1.6.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/xvxsamuel/DagobertAuto/releases/download/v1.6.0.0.1/latest.zip",
+        "DownloadCount":,
+        "LastUpdate": 
+    }
+]
